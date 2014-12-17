@@ -1,9 +1,0 @@
-Liste des todos génériques
---------------------------
-
-// TODO: Structure SPA
-// TODO: Traduction des textes
-// TOOD: Gestion des routes et rafraichissement du browser
-// TODO: Processus de déconnexion
-// TODO: Permanence des paramètres pendant la session, sur le poste local et sur le serveur
-
